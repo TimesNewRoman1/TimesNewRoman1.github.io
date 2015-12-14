@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+
+
+<title align="center"> My HTML Webpage</title>
+<link rel="stylesheet" href="stylesheet.css">
+</head>
+
+<h1 id="Top" align="center"> HTML Webpage</h1>
+<head>
+<a href="#Picture Editing">Picture Editing</a><br />
+<a href="#Audio Editing">Audio Editing</a><br />
+
+
+
+<h1 id="Picture Editing" align="center"> Picture Editing </h1>
+</head>
+
+<body>
+<h2 align="center"> Original Pictures </h2>
+<img src="steep-mountain-path.jpg"/><img src="DSC_4320.jpg"/><img src="chfa_02_img0309.jpg"/>
+<h1 align="center"> Photoshopped Image </h2>
+<img src="The Spy Chase.png" alt="The Spy Chase" align="left"/>
+<p> First, I cropped the car image and used a fine erase tool to completely
+    remove the background from it in order to place it on the backround with a clean edge.
+    Then, I placed the modified car onto the background picture of the mountain path, and resized it to fit 
+    the picture as original car image was much larger than the background. I then rotated the car 
+    picture so that it would sit on the path in the background picture at a more realistic angle. Next, I used a partially transparent 
+    black and white filter on the car to make it a darker black so as to have a sleeker look. 
+    I then added the explosion picture in the top section to create an action movie sort of effect.
+    Then I changed the brightness and contrast of the car, the explosion and the background to create 
+    a more uniform look between the layers
+    Next, I used the paintbrush tool and the smudge tool to create a shawdow underneath the car and then
+    smooth the effect of the paintbrush to make the car look more realistic in the picture.
+    Then, I used a clone tool, then the heal tool to make the entire picture more uniform and less choppy overall.
+    Finally, I layered text over the picture to make the picture look more like a movie poster.</p>
+
+<p><a href="#Top">Back To Top</a></p>
+
+
+<h1 id="Audio Editing" align="center">Audio Editing </title>
+</h1>	
+</head>
+
+<body>
+
+<audio controls>
+<source src="audio assignment.mp3" type="audio/mp3">
+</audio>
+
+   <h2 align="center">Fair Use</h1>
+	<p>Fair use is any limited copying of a copyrighted material <a href="http://guides.nyu.edu/fairuse"> (Source) </a>
+	 Fair use is 
+	important for teaching purposes (other than in post-secondary education) 
+	when a whole copyrighted material is not necessary, or accessible for all the 
+	pupils. It is also important for things like individual research papers and
+	personal knowledge so as to provide a broad understanding of certain topics. 
+	Fair use is used largely in criticisms, reviews, and parodies of copyrighted 
+	work, which can help expand the market for the copyrighted item and provide more 
+	potential consumers of the product although it can also be detrimental to future 
+	sales of the product, which should be avoided at all costs <a href="http://www.cmsimpact.org/fair-use/related-materials/codes/code-best-practices-fair-use-scholarly-research-communication#one"> (Source) </a>. Finally, it is important
+	to consider fair use in news broadcasts and articles where accurate information and 
+	clarity are both important. I believe that fair use of materials should be widely used, 
+	but have exact restrictions on it in order to prevent copyright infringement problems, 
+	and in order for the copyright holder to acquire the compensation fair for the 
+	product they have created.</p>
+
+	<p>To begin, I believe that all countries under the Berne agreement should follow 
+	the same guidelines for copyright law and fair use, and any change an individual 
+	nation wants to make to this agreement must be taken up with the other countries
+	under the Berne agreement, and only upon a positive vote from the majority of the
+	 countries should the country wishing to change their copyright law be allowed to 
+	change it. This would simplify the process and would allow a (mostly) universal 
+	agreement so as to prevent a person from being lawful in one country and then not 
+	in another, due to minor changes in the copyright law for individual countries. The 
+	usage of a copyrighted product should be different depending on if it is being used 
+	for private or public usage, for example, large public corporations should be made to 
+	pay for the product whereas free public institutions such as schools should not be, and 
+	private users should be made to pay for the product only within certain parameters. The 
+	next few paragraphs outline some general parameters concerning fair use.</p>
+
+	<p>First, I will discuss the logistics of the internet in concern with fair use and 
+	copyright law. I believe that all articles, papers, images, and books posted on the
+	 internet should fall under fair use. These items should be allowed to be posted on 
+	the internet by the copyright holder alone, but once on the web should be accessible to
+	 everyone. There should not be paid memberships necessary in order to use a product on 
+	the internet (services should however be under paid copyright if they believe is necessary)
+	 concerning fair use on the internet. However, once on the internet, there should be no 
+	copying of the fair use item unless specifically for teaching purposes. From there, the 
+	fair use item on the internet should be allowed to be used in small portions (unless a picture 
+	in which the whole image would probably need to be shown) for personal research, criticism,
+	 and news purposes <a href="http://www.copyright.gov/title17/92chap1.html#107">(Source)</a>. If any person wants to own a copy of the material or wants to be able to 
+	redistribute it outside of a classroom or lecture setting they must pay the fees set by the 
+	copyright holder. Fair usage should definitely have different parameters for private and public 
+	usage.  All corporations that wish to use the product must pay the copyright holder in order to access 
+	the product or the information at a large volume in order to be distributed throughout the company. 
+	In this situation the copyright holder can still get monetary compensation while allowing there product 
+	to gain popularity and to be used by the general population. </p>
+
+	<p>In addition, I will discuss fair use concerning research for teaching purposes. I 
+	believe that fair use concerning research for teaching purposes should allow the user 
+	to recreate as many copies of pictures or articles as is needed for instruction as well 
+	as one additional copy to be kept on file for later usage. However any full textbooks or 
+	novels used during instruction should be properly paid due to the large amount of money, 
+	time and effort that goes into the production of such materials. Sections of textbooks or
+	 novels should be allowed for use by an instructor under fair use but any substantial enough 
+	section should require the book to be bought. <a href="http://www.cmsimpact.org/fair-use/related-materials/codes/code-best-practices-fair-use-scholarly-research-communication#one"> (Source) </a>I believe these fair use materials should only 
+	be available without purchase in the classroom or lecture setting and should only be posted 
+	online by a non-copyright holder if absolutely necessary and only if its security can be insured.
+	 Finally I believe that the fair use materials should not be used for additional assignments 
+	created by the students (such as for references in an essay), unless a purchased copy is available 
+	to do so. The institution should also have with the copy on file a written report of the materials’ 
+	intended purpose and should include information on the copyright holder if they should need to be contacted <a href="http://www.cmsimpact.org/fair-use/related-materials/codes/code-best-practices-fair-use-scholarly-research-communication#one"> (Source). </a></p>
+
+	<p>Next, research for an individual should have separate prohibitions on proper usage. 
+	An individual who wants to use an article, picture or video for personal research should 
+	be allowed one copy under fair use, and any additional research used with that information 
+	must be properly cited as a source. A full textbook or novel should be allowed to be copied
+	 once in the case of personal research. However, the copy created for that individual should not 
+	be allowed to be distributed, uploaded to the internet or re-copied by that individual without 
+	permission of the copyright holder. All information gained from that material must be credited 
+	if ever used in the individuals work. <a href="http://www.cmsimpact.org/fair-use/related-materials/codes/code-best-practices-fair-use-scholarly-research-communication#one"> (Source) </a></p>
+
+	<p>In continuation, criticism should have a different set of policies concerning fair use. 
+	Criticism and reviews should be allowed to quote and summarize the material (whether it be an 
+	article, picture, video, etc). The material should however be properly cited in all publications
+	 of the critique, and context or explanations must be present when necessary so as to not skew the 
+	meaning of the copyrighted piece. There should be no parts of written work larger than 7-10 lines at 
+	a time. There should also be no criticism that is not directly connected to the copyrighted 
+	work (such as insults towards the author, or superficial aspects like the cover of the book) 
+	so as to not give inaccurate representations of the piece at hand. Finally the criticism should 
+	not in any way directly deter possible consumers of purchasing the copyrighted work, for
+	 example making claims of its intentions without direct proof taken from the text itself<a href="http://fairuse.stanford.edu/overview/fair-use/what-is-fair-use/"> (Source)</a>.</p>
+
+	<p>Finally, policies of fair use concerning News Reporting. News reporting should be allowed 
+	to use parts of copyrighted material through incident, for example a piece of art or a specific 
+	sign showing in the background of a news broadcast, however, any re-running of the broadcast must
+	 be properly addressed and accredited to the copyright holder<a href="http://www.cmsimpact.org/journalism#one"> (Source) </a>. If segments of the copyrighted work 
+	are used to prove a point through a broadcast or news story they should fall under fair use, however,
+	 the segment should be as short as is possible to make the point. Any parts of copyrighted material 
+	should be allowed to be used in order to clarify a point made by the journalist or to provide history
+	 on a specific topic<a href="http://www.cmsimpact.org/journalism#four"> (Source) </a>. This information should be given with complete context, again, so as to not
+	 change the inherent meaning of the original, copyrighted information. In addition the whole of a 
+	copyrighted work should not be shown unless it is absolutely necessary for the story, such as a picture 
+	or a very short video/audio clip, full articles or other written works under copyright law should not be 
+	shown on screen or posted on news websites without direct permission from the copyright holder.</p>
+
+	<p>In conclusion, fair use is an important aspect in copyright laws, which allows the copyright holder to gain as much is as 
+	fair for themselves, while still providing fair and accessible information for the general public. I believe that all the 
+	countries currently under the Berne agreement should follow the same copyright and fair usage laws with as little 
+	deviation as possible, and that any possible differences individual countries wish to make be agreed upon by a 
+	majority of the other countries in the agreement. If corporations pay the copyright holder for the product they require 
+	while the individuals and the schools who require that information still have access to it, then the product can gain 
+	popularity and users as well as allow the copyright holder to gain money for creating the product. </p>
+<p><a href="#Top">Back To Top</a></p>
+</body>
+</html>
+</body>
